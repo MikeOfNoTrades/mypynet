@@ -1,0 +1,6 @@
+---
+- format1: yaml
+  format2: json
+- platform1: cisco
+  platform2: juniper
+  platform3: brocade
